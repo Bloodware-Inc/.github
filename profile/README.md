@@ -6,7 +6,7 @@
 [![Gaming](https://img.shields.io/badge/Gaming-E63946?style=for-the-badge&logo=unity&logoColor=white)](https://bloodwareinc.com)  
 [![AI](https://img.shields.io/badge/AI-6C63FF?style=for-the-badge&logo=tensorflow&logoColor=white)](https://bloodwareinc.com)  
 [![Cybersecurity](https://img.shields.io/badge/Cybersecurity-FF6B6B?style=for-the-badge&logo=norton&logoColor=white)](https://bloodwareinc.com)  
-[![Hardware](https://img.shields.io/badge/Hardware-1F1F1F?style=for-the-badge&logo=pc&logoColor=white)](https://bloodwareinc.com)  
+[![Hardware](https://img.shields.io/badge/Hardware-1F1F1F?style=for-the-badge&logo=pc&logoColor=white)](https://bloodwareinc.com)
 
 ---
 
@@ -33,29 +33,43 @@
 <div style="background-color:#E63946; padding:15px; border-radius:10px; margin-bottom:10px;">
 ### 🎮 Dead Lantern Games, LLC
 [![Website](https://img.shields.io/badge/Website-Dead_Lantern_Games-red?style=for-the-badge&logo=google-chrome&logoColor=white)](https://deadlanterngames.com)  
+[![Horror](https://img.shields.io/badge/Horror-8B0000?style=for-the-badge)]  
+[![Shooter](https://img.shields.io/badge/Shooter-FF4500?style=for-the-badge)]  
+[![Mature](https://img.shields.io/badge/Mature-000000?style=for-the-badge&logo=unity&logoColor=white)]  
 **Focus:** Mature horror and shooter games. Immersive environments, deep narratives, and adult-oriented content. Innovative mechanics and atmospheric storytelling.
 </div>
 
 <div style="background-color:#457B9D; padding:15px; border-radius:10px; margin-bottom:10px;">
 ### 🕹️ Velxy Studios, LLC
 [![Website](https://img.shields.io/badge/Website-Velxy_Studios-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://VelxyStudios.com)  
+[![Teen](https://img.shields.io/badge/Teen-Friendly-1E90FF?style=for-the-badge)]  
+[![Family](https://img.shields.io/badge/Family-Friendly-32CD32?style=for-the-badge)]  
+[![Creative](https://img.shields.io/badge/Creative-FFD700?style=for-the-badge)]  
 **Focus:** Teen-rated and family-friendly games emphasizing engaging gameplay, community experiences, and creative accessibility.
 </div>
 
 <div style="background-color:#6C63FF; padding:15px; border-radius:10px; margin-bottom:10px;">
 ### 💬 Krynet, Inc
 [![Website](https://img.shields.io/badge/Website-Krynet-green?style=for-the-badge&logo=google-chrome&logoColor=white)](https://krynet.ai)  
+[![Secure](https://img.shields.io/badge/Secure-228B22?style=for-the-badge)]  
+[![Realtime](https://img.shields.io/badge/Realtime-1E90FF?style=for-the-badge)]  
+[![AI-Enhanced](https://img.shields.io/badge/AI-6C63FF?style=for-the-badge)]  
 **Focus:** Secure communication platform for gamers and online communities. Real-time messaging, media sharing, AI-enhanced moderation, and privacy-first design.
 </div>
 
 <div style="background-color:#1F1F1F; padding:15px; border-radius:10px; margin-bottom:10px;">
 ### 🖥️ ARZA, LLC
 [![Website](https://img.shields.io/badge/Website-ARZA-black?style=for-the-badge&logo=google-chrome&logoColor=white)](https://arza.tech)  
+[![High-Performance](https://img.shields.io/badge/High-Performance-FF8C00?style=for-the-badge)]  
+[![Custom-Builds](https://img.shields.io/badge/Custom-Builds-008080?style=for-the-badge)]  
+[![Gaming](https://img.shields.io/badge/Gaming-800080?style=for-the-badge)]  
 **Focus:** High-performance desktops and laptops for gaming, development, and professional workflows. Handpicked components and peak efficiency.
 </div>
 
 <div style="background-color:#FFC300; padding:15px; border-radius:10px; margin-bottom:10px;">
 ### 🛠️ Modding & Tools
+[![Modding](https://img.shields.io/badge/Modding-FF4500?style=for-the-badge)]  
+[![Tools](https://img.shields.io/badge/Tools-1E90FF?style=for-the-badge)]  
 **Focus:** Advanced game modifications and development tools to enhance gameplay, performance, and user experience across all projects.
 </div>
 
