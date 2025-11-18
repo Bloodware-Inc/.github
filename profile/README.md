@@ -2,6 +2,12 @@
 
 **Formerly Blood Gang, Inc.**
 
+[![Technology](https://img.shields.io/badge/Technology-007ACC?style=for-the-badge&logo=tech&logoColor=white)](https://bloodwareinc.com)  
+[![Gaming](https://img.shields.io/badge/Gaming-E63946?style=for-the-badge&logo=unity&logoColor=white)](https://bloodwareinc.com)  
+[![AI](https://img.shields.io/badge/AI-6C63FF?style=for-the-badge&logo=tensorflow&logoColor=white)](https://bloodwareinc.com)  
+[![Cybersecurity](https://img.shields.io/badge/Cybersecurity-FF6B6B?style=for-the-badge&logo=norton&logoColor=white)](https://bloodwareinc.com)  
+[![Hardware](https://img.shields.io/badge/Hardware-1F1F1F?style=for-the-badge&logo=pc&logoColor=white)](https://bloodwareinc.com)  
+
 **Bloodware, Inc.** is a technology and software development company delivering innovative solutions in software engineering, cybersecurity, game development, AI-driven platforms, and high-performance hardware. Founded by **@4zx16_** and co-founded by **@002FramesK**, Bloodware combines technical expertise with creative development to produce reliable, secure, and high-performance products for developers, creators, and end-users.
 
 ---
@@ -14,21 +20,17 @@ To advance technology through secure, high-performance, and innovative software 
 
 ## 💡 Core Focus Areas
 
-- **Software Development:** Advanced applications, tools, and systems for professional and creative use.  
-- **Cybersecurity:** Robust security solutions and privacy-first architectures.  
-- **Game Development:** Immersive, high-quality gaming experiences.  
-- **AI Platforms:** Intelligent systems for communication, moderation, and automation.  
-- **Hardware & Systems:** High-performance desktops and laptops engineered for creators, developers, and gamers.  
+- **Software Development** – Advanced applications, tools, and systems.  
+- **Cybersecurity** – Robust security solutions and privacy-first architectures.  
+- **Game Development** – Immersive, high-quality gaming experiences.  
+- **AI Platforms** – Intelligent systems for communication, moderation, and automation.  
+- **Hardware & Systems** – High-performance desktops and laptops for creators, developers, and gamers.  
 
 ---
 
 ## 🏆 Principles
 
-- **Innovation:** Constantly pushing technological boundaries.  
-- **Technical Excellence:** High standards for reliability, performance, and scalability.  
-- **Security & Privacy:** Commitment to secure, privacy-conscious solutions.  
-- **Integrity:** Ethical practices, verified partnerships, and transparency.  
-- **Community Empowerment:** Supporting developers, creators, and end-users through tools and solutions.
+Innovation | Technical Excellence | Security & Privacy | Integrity | Community Empowerment  
 
 ---
 
@@ -46,26 +48,34 @@ To advance technology through secure, high-performance, and innovative software 
 
 ### 🎮 Dead Lantern Games, LLC
 [![Website](https://img.shields.io/badge/Website-Dead_Lantern_Games-red?style=for-the-badge&logo=google-chrome&logoColor=white)](https://deadlanterngames.com)  
-Mature horror and shooter games with immersive environments, deep narratives, and adult-oriented content. Focused on atmospheric storytelling, innovative gameplay mechanics, and high-quality production.
-
-### 🕹️ Velxy Studios, LLC
-[![Website](https://img.shields.io/badge/Website-Velxy_Studios-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://VelxyStudios.com)  
-Teen-rated and family-friendly games emphasizing engaging gameplay, community experiences, and accessible creative content.
-
-### 💬 Krynet, Inc
-[![Website](https://img.shields.io/badge/Website-Krynet-green?style=for-the-badge&logo=google-chrome&logoColor=white)](https://krynet.ai)  
-Fast, secure communication platform for gamers and online communities. Features real-time messaging, media sharing, moderation tools, and AI-enhanced privacy for smooth, distraction-free experiences.
-
-### 🖥️ ARZA, LLC
-[![Website](https://img.shields.io/badge/Website-ARZA-black?style=for-the-badge&logo=google-chrome&logoColor=white)](https://arza.tech)  
-High-performance hardware division providing desktops and laptops for gaming, development, and professional workflows. Handpicked components, purpose-built systems, and peak efficiency.
-
-### 🛠️ Modding & Tools
-Advanced game modifications and development tools that enhance gameplay, performance, and player experiences across all projects.
+**Description:** Mature horror and shooter games with immersive environments, deep narratives, and adult-oriented content. Atmospheric storytelling and innovative gameplay mechanics define every project.
 
 ---
 
-## 📱 Socials & Contact
+### 🕹️ Velxy Studios, LLC
+[![Website](https://img.shields.io/badge/Website-Velxy_Studios-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://VelxyStudios.com)  
+**Description:** Teen-rated and family-friendly games emphasizing engaging gameplay, community experiences, and accessible creative content.
+
+---
+
+### 💬 Krynet, Inc
+[![Website](https://img.shields.io/badge/Website-Krynet-green?style=for-the-badge&logo=google-chrome&logoColor=white)](https://krynet.ai)  
+**Description:** Fast, secure communication platform for gamers and online communities. Real-time messaging, media sharing, moderation tools, and AI-enhanced privacy provide a distraction-free, reliable experience.
+
+---
+
+### 🖥️ ARZA, LLC
+[![Website](https://img.shields.io/badge/Website-ARZA-black?style=for-the-badge&logo=google-chrome&logoColor=white)](https://arza.tech)  
+**Description:** High-performance desktops and laptops designed for gaming, development, and professional workflows. Handpicked components, customizable builds, and peak efficiency for creators and competitors alike.
+
+---
+
+### 🛠️ Modding & Tools
+**Description:** Advanced game modifications and development tools that enhance gameplay, performance, and user experiences across all projects.
+
+---
+
+## 📱 Connect With Us
 
 [![Discord](https://img.shields.io/badge/Discord-Bloodware-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://linkr.it/blood)  
 [![X](https://img.shields.io/badge/X-@BloodwareInc-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/bloodwareinc)  
