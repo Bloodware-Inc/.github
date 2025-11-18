@@ -69,14 +69,6 @@ Bloodware owns and operates several specialized divisions including **Dead Lante
 
 ---
 
-### 🛠️ **Modding & Tools**  
-[![Modding](https://img.shields.io/badge/Modding-FF4500?style=flat-square)]()
-[![Tools](https://img.shields.io/badge/Tools-1E90FF?style=flat-square)]()
-
-**Focus:** Internal modding utilities, development frameworks, and game enhancement tools.
-
----
-
 <div align="center">
 
 ### 🩸 *Bloodware, Inc.*  
