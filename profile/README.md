@@ -22,9 +22,6 @@
 
 Bloodware, Inc. is a technology and software development company delivering innovative solutions across software engineering, cybersecurity, game development, AI, and high-performance hardware.  
 We combine technical expertise with creative development to produce reliable, secure, and high-performance products for developers, creators, gamers, and enterprise users.
-
-Bloodware owns and operates several specialized divisions including **Dead Lantern Games**, **Velxy Studios**, **Krynet**, and **ARZA** — each contributing to Bloodware’s ecosystem of technology, entertainment, and infrastructure.
-
 ---
 
 ## 🧩 **Divisions & Projects**
