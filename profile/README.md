@@ -20,7 +20,7 @@
 
 ## 🩸 **About Bloodware, Inc.**
 
-Bloodware, Inc. is a technology and software development company delivering innovative solutions across software engineering, cybersecurity, game development, AI, and high-performance hardware.  
+> Bloodware, Inc. is a technology and software development company delivering innovative solutions across software engineering, cybersecurity, game development, AI, and high-performance hardware.  
 We combine technical expertise with creative development to produce reliable, secure, and high-performance products for developers, creators, gamers, and enterprise users.
 ---
 
