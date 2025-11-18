@@ -3,7 +3,7 @@
 # 🩸 **Bloodware, Inc.**
 ### *Technology • Software • Cybersecurity • Gaming • AI • Hardware Engineering*
 
-[![Website](https://img.shields.io/badge/Website-Bloodware-black?style=for-the-badge&logo=google-chrome)](https://bloodgang.carrd.co)
+[![Website](https://img.shields.io/badge/Website-Bloodware-black?style=for-the-badge&logo=google-chrome)](https://bloodware.com)
 [![GitHub 4zx16](https://img.shields.io/badge/Founder-4zx16-red?style=for-the-badge&logo=github)](https://github.com/4zx16)
 [![GitHub 7zh14](https://img.shields.io/badge/Co--Founder-7zh14-blue?style=for-the-badge&logo=github)](https://github.com/7zh14)
 
