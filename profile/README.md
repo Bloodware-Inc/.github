@@ -31,19 +31,11 @@ Bloodware, Inc. is the evolution of Blood Gang, Inc.—a collaborative, innovati
 
 - Bloodware is known for advanced game mods that enhance features, performance, and overall player experience.  
 
-## Leadership & Community
-Founded by @4zx16 and @7zh14
-[Join our Discord Community](https://linkr.it/blood) – connect with developers, players, and enthusiasts.  
-
 ## Socials & Contact
 
 - [Discord](https://linkr.it/blood)  
 - [X/Twitter](https://x.com/bloodwareinc)  
 - [YouTube](https://youtube.com/@bloodwareinc)  
-
-## Certifications & Expertise
-
-Cybersecurity | Software Development | Game Design | Teamwork | Critical Thinking | Time Management  
 
 ## Summary
 
