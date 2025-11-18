@@ -77,16 +77,6 @@ Bloodware owns and operates several specialized divisions including **Dead Lante
 
 ---
 
-## 🔗 **Official GitHub Profiles**
-
-- **Founder – @4zx16**  
-  https://github.com/4zx16
-
-- **Co-Founder – @7zh14**  
-  https://github.com/7zh14
-
----
-
 <div align="center">
 
 ### 🩸 *Bloodware, Inc.*  
