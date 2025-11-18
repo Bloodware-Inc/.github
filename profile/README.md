@@ -1,95 +1,95 @@
-# 🩸 Bloodware, Inc. – Innovation & Technology Company
-**Formerly Blood Gang, Inc.**
+<div align="center">
 
-## 👑 Founders & Leadership
-[![4zx16](https://img.shields.io/badge/Founder-4zx16-8A0303?style=for-the-badge&logo=github&logoColor=white)](https://github.com/4zx16)
-[![7zh14](https://img.shields.io/badge/Co--Founder-7zh14-2E2E2E?style=for-the-badge&logo=github&logoColor=white)](https://github.com/7zh14)
+# 🩸 **Bloodware, Inc.**
+### *Technology • Software • Cybersecurity • Gaming • AI • Hardware Engineering*
+
+[![Website](https://img.shields.io/badge/Website-Bloodware-black?style=for-the-badge&logo=google-chrome)](https://bloodgang.carrd.co)
+[![GitHub 4zx16](https://img.shields.io/badge/Founder-4zx16-red?style=for-the-badge&logo=github)](https://github.com/4zx16)
+[![GitHub 7zh14](https://img.shields.io/badge/Co--Founder-7zh14-blue?style=for-the-badge&logo=github)](https://github.com/7zh14)
+
+[![Tech](https://img.shields.io/badge/Technology-000000?style=flat-square)]()
+[![Software](https://img.shields.io/badge/Software_Engineering-0078D4?style=flat-square)]()
+[![Cybersecurity](https://img.shields.io/badge/Cybersecurity-8B0000?style=flat-square)]()
+[![Gaming](https://img.shields.io/badge/Gaming-6A0DAD?style=flat-square)]()
+[![AI](https://img.shields.io/badge/AI-6C63FF?style=flat-square)]()
+[![Hardware](https://img.shields.io/badge/Hardware-FF8C00?style=flat-square)]()
+
+</div>
 
 ---
 
-## 🏢 Company Focus
-[![Technology](https://img.shields.io/badge/Technology-005BBB?style=for-the-badge&logo=microchip&logoColor=white)]()
-[![Gaming](https://img.shields.io/badge/Gaming-8A0303?style=for-the-badge&logo=steam&logoColor=white)]()
-[![Cybersecurity](https://img.shields.io/badge/Cybersecurity-101820?style=for-the-badge&logo=shield&logoColor=white)]()
-[![AI](https://img.shields.io/badge/AI_and_Tools-6C63FF?style=for-the-badge&logo=spark&logoColor=white)]()
-[![Hardware](https://img.shields.io/badge/Hardware-0A0A0A?style=for-the-badge&logo=nvidia&logoColor=white)]()
+## 🩸 **About Bloodware, Inc.**
 
----
-
-## 📝 About
-**Bloodware, Inc.** is a technology and software development company delivering innovative solutions across software engineering, cybersecurity, game development, AI, and high-performance hardware.  
+Bloodware, Inc. is a technology and software development company delivering innovative solutions across software engineering, cybersecurity, game development, AI, and high-performance hardware.  
 We combine technical expertise with creative development to produce reliable, secure, and high-performance products for developers, creators, gamers, and enterprise users.
 
-Bloodware owns and operates several specialized divisions including **Dead Lantern Games, Velxy Studios, Krynet**, and **ARZA** — each contributing to Bloodware’s ecosystem of technology, entertainment, and infrastructure.
+Bloodware owns and operates several specialized divisions including **Dead Lantern Games**, **Velxy Studios**, **Krynet**, and **ARZA** — each contributing to Bloodware’s ecosystem of technology, entertainment, and infrastructure.
 
 ---
 
-## 🧪 Core Technologies
-[![Lua](https://img.shields.io/badge/Lua-000080?style=for-the-badge&logo=lua&logoColor=white)](https://www.lua.org/)  
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)  
-[![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)](https://isocpp.org/)  
-[![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-000000?style=for-the-badge&logo=unrealengine&logoColor=white)](https://www.unrealengine.com/)
+## 🧩 **Divisions & Projects**
+
+### 🎮 **Dead Lantern Games, LLC**  
+[![Website](https://img.shields.io/badge/Website-Dead_Lantern_Games-red?style=for-the-badge&logo=google-chrome)](https://deadlanterngames.com)  
+[![Horror](https://img.shields.io/badge/Horror-8B0000?style=flat-square)]()
+[![Shooter](https://img.shields.io/badge/Shooter-FF4500?style=flat-square)]()
+[![Mature](https://img.shields.io/badge/Mature-000000?style=flat-square)]()
+
+**Focus:** Mature horror & shooter games. High immersion, deep narratives, and atmospheric gameplay.
 
 ---
 
-# 📂 Divisions & Projects
+### 🕹️ **Velxy Studios, LLC**  
+[![Website](https://img.shields.io/badge/Website-Velxy_Studios-blue?style=for-the-badge&logo=google-chrome)](https://velxystudios.com)  
+[![Teen](https://img.shields.io/badge/Teen--Friendly-1E90FF?style=flat-square)]()
+[![Family](https://img.shields.io/badge/Family--Friendly-32CD32?style=flat-square)]()
+[![Creative](https://img.shields.io/badge/Creative-FFD700?style=flat-square)]()
 
-## 🎮 Dead Lantern Games, LLC  
-[![Visit_Site](https://img.shields.io/badge/Visit_Site-Dead_Lantern_Games-8A0303?style=flat-square&logo=google-chrome&logoColor=white)](https://deadlanterngames.com)  
-[![Horror](https://img.shields.io/badge/Horror-5A0000?style=flat-square)]  
-[![Shooter](https://img.shields.io/badge/Shooter-FF4C00?style=flat-square)]  
-[![Mature](https://img.shields.io/badge/Mature-000000?style=flat-square&logo=steam&logoColor=white)]  
-
-**Focus:** Mature horror & shooter titles with psychological depth, atmospheric world design, and heavy narrative impact.
+**Focus:** Teen-friendly & family-friendly titles. Community-centered design & creative gameplay.
 
 ---
 
-## 🕹️ Velxy Studios, LLC  
-[![Visit_Site](https://img.shields.io/badge/Visit_Site-Velxy_Studios-1E90FF?style=flat-square&logo=google-chrome&logoColor=white)](https://VelxyStudios.com)  
-[![Teen](https://img.shields.io/badge/Teen-Friendly-00A2FF?style=flat-square)]  
-[![Family](https://img.shields.io/badge/Family-Friendly-32CD32?style=flat-square)]  
-[![Creative](https://img.shields.io/badge/Creative-FFD700?style=flat-square)]  
+### 💬 **Krynet, Inc.**  
+[![Website](https://img.shields.io/badge/Website-Krynet-green?style=for-the-badge&logo=google-chrome)](https://krynet.ai)  
+[![Secure](https://img.shields.io/badge/Secure-228B22?style=flat-square)]()
+[![Realtime](https://img.shields.io/badge/Realtime-1E90FF?style=flat-square)]()
+[![AI](https://img.shields.io/badge/AI_Enhanced-6C63FF?style=flat-square)]()
 
-**Focus:** Teen-rated and family-friendly games built around creativity, accessibility, and high engagement.
-
----
-
-## 💬 Krynet, Inc  
-[![Visit_Site](https://img.shields.io/badge/Visit_Site-Krynet-008000?style=flat-square&logo=google-chrome&logoColor=white)](https://krynet.ai)  
-[![Secure](https://img.shields.io/badge/Secure-228B22?style=flat-square)]  
-[![Real-Time](https://img.shields.io/badge/Realtime-1E90FF?style=flat-square)]  
-[![AI_Enhanced](https://img.shields.io/badge/AI-6C63FF?style=flat-square)]  
-
-**Focus:** A fast, secure communication platform for gamers & communities. Real-time messaging, media sharing, privacy-first architecture, AI moderation, and modern UI/UX.
+**Focus:** Fast, secure communication platform with real-time messaging, media sharing, and AI moderation.
 
 ---
 
-## 🖥️ ARZA, LLC  
-[![Visit_Site](https://img.shields.io/badge/Visit_Site-ARZA-000000?style=flat-square&logo=google-chrome&logoColor=white)](https://arza.tech)  
-[![High-Performance](https://img.shields.io/badge/High--Performance-FF8C00?style=flat-square)]  
-[![Custom--Builds](https://img.shields.io/badge/Custom--Builds-008080?style=flat-square)]  
-[![Gaming](https://img.shields.io/badge/Gaming-800080?style=flat-square)]  
+### 🖥️ **ARZA, LLC**  
+[![Website](https://img.shields.io/badge/Website-ARZA-black?style=for-the-badge&logo=google-chrome)](https://arza.tech)  
+[![HighPerformance](https://img.shields.io/badge/High--Performance-FF8C00?style=flat-square)]()
+[![CustomBuilds](https://img.shields.io/badge/Custom--Builds-008080?style=flat-square)]()
+[![Gaming](https://img.shields.io/badge/Gaming-800080?style=flat-square)]()
 
-**Focus:** Elite-tier desktops & laptops for creators, developers, and competitive gamers. Handpicked components, zero compromises, performance engineered for endurance.
-
----
-
-## 🛠️ Modding & Tools  
-[![Modding](https://img.shields.io/badge/Modding-FF4500?style=flat-square)]  
-[![Tools](https://img.shields.io/badge/Tools-1E90FF?style=flat-square)]  
-
-**Focus:** Advanced mods, performance patches, utilities, and toolkits improving gameplay and developer workflows.
+**Focus:** Elite-tier desktops & laptops built with premium components for creators, gamers, and developers.
 
 ---
 
-## 🔗 Socials & Contact  
-[![Join_Discord](https://img.shields.io/badge/Join_Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://linkr.it/blood)  
-[![X](https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/bloodwareinc)  
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@bloodwareinc)
+### 🛠️ **Modding & Tools**  
+[![Modding](https://img.shields.io/badge/Modding-FF4500?style=flat-square)]()
+[![Tools](https://img.shields.io/badge/Tools-1E90FF?style=flat-square)]()
+
+**Focus:** Internal modding utilities, development frameworks, and game enhancement tools.
 
 ---
 
-## ⭐ Summary  
-Bloodware, Inc. drives innovation across game development, secure communications, software engineering, and elite hardware manufacturing.  
-From immersive horror titles to AI-backed communication platforms, and from custom performance PCs to modding ecosystems — Bloodware builds technology, entertainment, and experiences that push boundaries.
+## 🔗 **Official GitHub Profiles**
+
+- **Founder – @4zx16**  
+  https://github.com/4zx16
+
+- **Co-Founder – @7zh14**  
+  https://github.com/7zh14
+
+---
+
+<div align="center">
+
+### 🩸 *Bloodware, Inc.*  
+**Building the future — one system, one platform, one idea at a time.**
+
+</div>
