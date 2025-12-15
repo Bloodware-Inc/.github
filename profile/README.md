@@ -36,17 +36,18 @@ We combine technical expertise with creative development to produce reliable, se
 
 ---
 
-### 🕹️ **Velxy Studios, LLC**  
-[![Website](https://img.shields.io/badge/Website-Velxy_Studios-blue?style=for-the-badge&logo=google-chrome)](https://velxystudios.com)  
-[![Teen](https://img.shields.io/badge/Teen--Friendly-1E90FF?style=flat-square)]()
-[![Family](https://img.shields.io/badge/Family--Friendly-32CD32?style=flat-square)]()
-[![Creative](https://img.shields.io/badge/Creative-FFD700?style=flat-square)]()
+### 🕹️ **Velxy Studios, LLC**
 
-**Focus:** Teen-friendly & family-friendly titles. Community-centered design & creative gameplay.
+[![Website](https://img.shields.io/badge/Website-Velxy_Studios-blue?style=for-the-badge\&logo=google-chrome)](https://velxystudios.com)
+[![All\_Ages](https://img.shields.io/badge/All--Ages_Friendly-1E90FF?style=flat-square)]()
+[![Lifestyle](https://img.shields.io/badge/Gaming_Lifestyle-32CD32?style=flat-square)]()
+[![Events](https://img.shields.io/badge/Live_Events_&_IRL_Games-FFD700?style=flat-square)]()
+
+**Focus:** Live events with playable IRL games and video game betas, previews of upcoming titles, plus custom PCs, food & drinks, and branded merch. Community-first gaming lifestyle brand.
 
 ---
 
-### 💬 **Krynet, Inc.**  
+### 💬 **Krynet, LLC**  
 [![Website](https://img.shields.io/badge/Website-Krynet-green?style=for-the-badge&logo=google-chrome)](https://krynet.ai)  
 [![Secure](https://img.shields.io/badge/Secure-228B22?style=flat-square)]()
 [![Realtime](https://img.shields.io/badge/Realtime-1E90FF?style=flat-square)]()
